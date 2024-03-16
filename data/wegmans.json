@@ -1,0 +1,457 @@
+[
+    {
+        "store": "0003",
+        "job_run_date": "2024-02-22, 15:57:11.637147",
+        "Number_of_online_lanes": "12",
+        "Number_of_offline_lanes": "0",
+        "Lanes": {
+            "081": {
+                "Online": "True"
+            },
+            "082": {
+                "Online": "True"
+            },
+            "083": {
+                "Online": "True"
+            },
+            "084": {
+                "Online": "True"
+            },
+            "085": {
+                "Online": "True"
+            },
+            "086": {
+                "Online": "True"
+            },
+            "087": {
+                "Online": "True"
+            },
+            "088": {
+                "Online": "True"
+            },
+            "089": {
+                "Online": "True"
+            },
+            "391": {
+                "Online": "True"
+            },
+            "392": {
+                "Online": "True"
+            },
+            "393": {
+                "Online": "True"
+            }
+        }
+    },
+    {
+        "store": "0025",
+        "job_run_date": "2024-02-22, 15:57:11.637147",
+        "Number_of_online_lanes": "23",
+        "Number_of_offline_lanes": "0",
+        "Lanes": {
+            "081": {
+                "Online": "True"
+            },
+            "082": {
+                "Online": "True"
+            },
+            "083": {
+                "Online": "True"
+            },
+            "084": {
+                "Online": "True"
+            },
+            "085": {
+                "Online": "True"
+            },
+            "086": {
+                "Online": "True"
+            },
+            "087": {
+                "Online": "True"
+            },
+            "088": {
+                "Online": "True"
+            },
+            "089": {
+                "Online": "True"
+            },
+            "391": {
+                "Online": "True"
+            },
+            "392": {
+                "Online": "True"
+            },
+            "393": {
+                "Online": "True"
+            },
+            "394": {
+                "Online": "True"
+            },
+            "395": {
+                "Online": "True"
+            },
+            "396": {
+                "Online": "True"
+            },
+            "440": {
+                "Online": "True"
+            },
+            "441": {
+                "Online": "True"
+            },
+            "442": {
+                "Online": "True"
+            },
+            "443": {
+                "Online": "True"
+            },
+            "444": {
+                "Online": "True"
+            },
+            "460": {
+                "Online": "True"
+            },
+            "461": {
+                "Online": "True"
+            },
+            "462": {
+                "Online": "True"
+            }
+        }
+    },
+    {
+        "store": "0068",
+        "job_run_date": "2024-02-22, 15:57:11.637147",
+        "Number_of_online_lanes": "0",
+        "Number_of_offline_lanes": "12",
+        "Lanes": {
+            "081": {
+                "Online": "False"
+            },
+            "082": {
+                "Online": "False"
+            },
+            "083": {
+                "Online": "False"
+            },
+            "084": {
+                "Online": "False"
+            },
+            "085": {
+                "Online": "False"
+            },
+            "086": {
+                "Online": "False"
+            },
+            "087": {
+                "Online": "False"
+            },
+            "088": {
+                "Online": "False"
+            },
+            "089": {
+                "Online": "False"
+            },
+            "391": {
+                "Online": "False"
+            },
+            "392": {
+                "Online": "False"
+            },
+            "393": {
+                "Online": "False"
+            }
+        }
+    },
+    {
+        "store": "0082",
+        "job_run_date": "2024-02-22, 15:57:11.637147",
+        "Number_of_online_lanes": "31",
+        "Number_of_offline_lanes": "0",
+        "Lanes": {
+            "081": {
+                "Online": "True"
+            },
+            "082": {
+                "Online": "True"
+            },
+            "083": {
+                "Online": "True"
+            },
+            "084": {
+                "Online": "True"
+            },
+            "085": {
+                "Online": "True"
+            },
+            "086": {
+                "Online": "True"
+            },
+            "087": {
+                "Online": "True"
+            },
+            "088": {
+                "Online": "True"
+            },
+            "089": {
+                "Online": "True"
+            },
+            "391": {
+                "Online": "True"
+            },
+            "392": {
+                "Online": "True"
+            },
+            "393": {
+                "Online": "True"
+            },
+            "394": {
+                "Online": "True"
+            },
+            "395": {
+                "Online": "True"
+            },
+            "396": {
+                "Online": "True"
+            },
+            "397": {
+                "Online": "True"
+            },
+            "398": {
+                "Online": "True"
+            },
+            "399": {
+                "Online": "True"
+            },
+            "401": {
+                "Online": "True"
+            },
+            "402": {
+                "Online": "True"
+            },
+            "403": {
+                "Online": "True"
+            },
+            "440": {
+                "Online": "True"
+            },
+            "441": {
+                "Online": "True"
+            },
+            "442": {
+                "Online": "True"
+            },
+            "443": {
+                "Online": "True"
+            },
+            "444": {
+                "Online": "True"
+            },
+            "460": {
+                "Online": "True"
+            },
+            "461": {
+                "Online": "True"
+            },
+            "462": {
+                "Online": "True"
+            },
+            "463": {
+                "Online": "True"
+            },
+            "464": {
+                "Online": "True"
+            }
+        }
+    },
+    {
+        "store": "0108",
+        "job_run_date": "2024-02-22, 15:57:11.637147",
+        "Number_of_online_lanes": "12",
+        "Number_of_offline_lanes": "0",
+        "Lanes": {
+            "081": {
+                "Online": "True"
+            },
+            "082": {
+                "Online": "True"
+            },
+            "083": {
+                "Online": "True"
+            },
+            "084": {
+                "Online": "True"
+            },
+            "085": {
+                "Online": "True"
+            },
+            "086": {
+                "Online": "True"
+            },
+            "087": {
+                "Online": "True"
+            },
+            "088": {
+                "Online": "True"
+            },
+            "089": {
+                "Online": "True"
+            },
+            "391": {
+                "Online": "True"
+            },
+            "392": {
+                "Online": "True"
+            },
+            "393": {
+                "Online": "True"
+            }
+        }
+    },
+    {
+        "store": "0139",
+        "job_run_date": "2024-02-22, 15:57:11.637147",
+        "Number_of_online_lanes": "12",
+        "Number_of_offline_lanes": "0",
+        "Lanes": {
+            "081": {
+                "Online": "True"
+            },
+            "082": {
+                "Online": "True"
+            },
+            "083": {
+                "Online": "True"
+            },
+            "084": {
+                "Online": "True"
+            },
+            "085": {
+                "Online": "True"
+            },
+            "086": {
+                "Online": "True"
+            },
+            "087": {
+                "Online": "True"
+            },
+            "088": {
+                "Online": "True"
+            },
+            "089": {
+                "Online": "True"
+            },
+            "391": {
+                "Online": "True"
+            },
+            "392": {
+                "Online": "True"
+            },
+            "393": {
+                "Online": "True"
+            }
+        }
+    },
+    {
+        "store": "0156",
+        "job_run_date": "2024-02-22, 15:57:11.637147",
+        "Number_of_online_lanes": "31",
+        "Number_of_offline_lanes": "0",
+        "Lanes": {
+            "081": {
+                "Online": "True"
+            },
+            "082": {
+                "Online": "True"
+            },
+            "083": {
+                "Online": "True"
+            },
+            "084": {
+                "Online": "True"
+            },
+            "085": {
+                "Online": "True"
+            },
+            "086": {
+                "Online": "True"
+            },
+            "087": {
+                "Online": "True"
+            },
+            "088": {
+                "Online": "True"
+            },
+            "089": {
+                "Online": "True"
+            },
+            "391": {
+                "Online": "True"
+            },
+            "392": {
+                "Online": "True"
+            },
+            "393": {
+                "Online": "True"
+            },
+            "394": {
+                "Online": "True"
+            },
+            "395": {
+                "Online": "True"
+            },
+            "396": {
+                "Online": "True"
+            },
+            "397": {
+                "Online": "True"
+            },
+            "398": {
+                "Online": "True"
+            },
+            "399": {
+                "Online": "True"
+            },
+            "401": {
+                "Online": "True"
+            },
+            "402": {
+                "Online": "True"
+            },
+            "403": {
+                "Online": "True"
+            },
+            "404": {
+                "Online": "True"
+            },
+            "405": {
+                "Online": "True"
+            },
+            "406": {
+                "Online": "True"
+            },
+            "407": {
+                "Online": "True"
+            },
+            "408": {
+                "Online": "True"
+            },
+            "409": {
+                "Online": "True"
+            },
+            "410": {
+                "Online": "True"
+            },
+            "411": {
+                "Online": "True"
+            },
+            "412": {
+                "Online": "True"
+            },
+            "413": {
+                "Online": "True"
+            }
+        }
+    }
+]

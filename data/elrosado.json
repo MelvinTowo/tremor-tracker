@@ -1,0 +1,86 @@
+[
+    {
+        "store": "0093",
+        "job_run_date": "2024-03-15, 22:54:01.418810",
+        "Number_of_online_lanes": "6",
+        "Number_of_offline_lanes": "0",
+        "Lanes": {
+            "201": {
+                "Online": "True"
+            },
+            "202": {
+                "Online": "True"
+            },
+            "203": {
+                "Online": "True"
+            },
+            "204": {
+                "Online": "True"
+            },
+            "205": {
+                "Online": "True"
+            },
+            "206": {
+                "Online": "True"
+            }
+        }
+    },
+    {
+        "store": "0094",
+        "job_run_date": "2024-03-15, 22:54:01.418810",
+        "Number_of_online_lanes": "4",
+        "Number_of_offline_lanes": "0",
+        "Lanes": {
+            "201": {
+                "Online": "True"
+            },
+            "202": {
+                "Online": "True"
+            },
+            "203": {
+                "Online": "True"
+            },
+            "204": {
+                "Online": "True"
+            }
+        }
+    },
+    {
+        "store": "0191",
+        "job_run_date": "2024-03-15, 22:54:01.418810",
+        "Number_of_online_lanes": "10",
+        "Number_of_offline_lanes": "0",
+        "Lanes": {
+            "201": {
+                "Online": "True"
+            },
+            "202": {
+                "Online": "True"
+            },
+            "203": {
+                "Online": "True"
+            },
+            "204": {
+                "Online": "True"
+            },
+            "205": {
+                "Online": "True"
+            },
+            "206": {
+                "Online": "True"
+            },
+            "207": {
+                "Online": "True"
+            },
+            "208": {
+                "Online": "True"
+            },
+            "209": {
+                "Online": "True"
+            },
+            "210": {
+                "Online": "True"
+            }
+        }
+    }
+]
