@@ -39,4 +39,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 THINGS TO ADD
 Unique Lane Charts
 Convert Table to list
-Line up pie charts into rows

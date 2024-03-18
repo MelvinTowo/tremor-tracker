@@ -2,7 +2,7 @@
 
 import { RiCheckboxCircleLine, RiCloseCircleLine } from '@remixicon/react';
 import { Badge, Accordion, AccordionBody, AccordionHeader, AccordionList, Card, Title, Text } from '@tremor/react';
-import DataTable from './fetch'; // Import the DataTable component
+import DataTable from './fetchJSON'; // Import the DataTable component
 import DonutCard from './donut'; // Import the DonutCard component
 import kroger from '../../data/kroger.json';
 import wegmans from '../../data/wegmans.json';
@@ -70,11 +70,11 @@ export default function Home() {
           <DonutCard onlineLanes={daves.reduce((total, item) => total + Number(item.Number_of_online_lanes), 0)} offlineLanes={daves.reduce((total, item) => total + Number(item.Number_of_offline_lanes), 0)} customerName='Daves' />
         </div>
       </div>
-      <AccordionList className="mx-auto">
+      <AccordionList className="whitespace-nowrap">
         {renderAccordionItem('Kroger', kroger)}
         {renderAccordionItem('Wegmans', wegmans)}
         {renderAccordionItem('Weis', weis)}
-        {renderAccordionItem('ElRosado', elrosado)}
+        {renderAccordionItem('El Rosado', elrosado)}
         {renderAccordionItem('Daves', daves)}
       </AccordionList>
     </main>

@@ -12,6 +12,10 @@ const config: Config = {
     transparent: 'transparent',
     current: 'currentColor',
     extend: {
+      spacing: {
+        '17': '4.25rem',
+        '18': '4.5rem',
+      },
       colors: {
         // light mode
         tremor: {
