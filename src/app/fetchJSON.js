@@ -13,12 +13,12 @@ import {
       return (
         <AccordionList>
           {jsonData.map((store) => (
-            <Accordion key={store.store} className='px-10 py-10'>
+            <Accordion key={store.store} className='px-10 py-10 text-base'>
                 <h3 className="text-tremor-content-strong dark:text-dark-tremor-content-strong font-medium">Store {store.store}</h3>
                 <List>
                   {Object.entries(store.Lanes).map(([laneNumber, laneData]) => (
                     <ListItem key={laneNumber} style={{ display: 'flex', justifyContent: 'space-between' }}>
-                      <span>{laneNumber}</span>
+                      <span className='text-base'>{laneNumber}</span>
                       {laneData.Online === 'True' ? 
                         <Icon size="sm" icon={RiCheckboxCircleLine} color="green" /> : 
                         <Icon size="sm" icon={RiCloseCircleLine} color="red" />}
