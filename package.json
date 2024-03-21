@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">= 18.17.0"
+    "node": "18.x"
   },
   "scripts": {
     "dev": "next dev",
@@ -13,6 +13,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "18": "^0.0.0",
     "@headlessui/react": "^1.7.18",
     "@headlessui/tailwindcss": "^0.2.0",
     "@remixicon/react": "^4.2.0",
